@@ -1,4 +1,4 @@
-# Desafio tamanduatech Segue linha eletronica
+# Desafio tamanduatech Segue linha eletrônica
 Placa de circuito impresso e digrama elétrico de um circuito com ponte H (C.I. L293D) para controlar dois motores com uma tensão de saída fixa
 de aproximadamente 5V e corrente de 600mA com picos de 1.2A por motor, podendo ter como tensão de entrada entre 8V à 25V. Além disso
 possui transistor para aumentar a corrente máxima de alimentação da ponte h para até 5A o que possibilita a implemetação desse circuito
